@@ -114,6 +114,11 @@ You can ask your LLM to use these tools in various ways. Here are some example p
 - "List all Delta Live Tables pipelines."
 - "Which DLT pipelines are available in my environment?"
 
+### 8. `list_clusters()`
+- "List all Databricks clusters."
+- "Show me every cluster in my workspace."
+- "What clusters are currently available?"
+
 ---
 
 Feel free to adapt these prompts to your needs or combine them for more complex workflows!
